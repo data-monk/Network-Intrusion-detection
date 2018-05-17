@@ -328,5 +328,6 @@ In this project a deep neural network was used with followig specification:
 ![model image](model.png)
 
 <h2>Results:</h2>
-*The training accuracy achieved was: 99.1%
-*The test accuracy achieved was    : 99.1%
+
+* The training accuracy achieved was: 99.1% <br>
+* The test accuracy achieved was    : 99.1%
