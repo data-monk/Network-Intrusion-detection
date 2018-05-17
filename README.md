@@ -1,5 +1,5 @@
 
-<h1>      Network-Intrusion-Detecter </h1>
+<h1>      Network-Intrusion-Detector </h1>
 
 **<h2>Problem Statement:</h2>**<br>
 The task for the classifier learning contest organized in conjunction with the KDD'99 conference was to learn a predictive model (i.e. a classifier) capable of distinguishing between legitimate and illegitimate connections in a computer network.  Here is a [detailed description](http://kdd.ics.uci.edu/databases/kddcup99/task.html) of the task.  
