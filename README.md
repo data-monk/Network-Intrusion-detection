@@ -7,7 +7,7 @@ The task for the classifier learning contest organized in conjunction with the K
 The training and test data were generously made available by Prof. Sal Stolfo of Columbia University and Prof. Wenke Lee of North Carolina State University.  (Update: The training and test datasets are now [available](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html) in the UC Irvine KDD archive.)
 
 <h2>Dataset:</h2><br>
-The data used here in this project is a 10% stratified subsample of the data from the 1999 ACM KDD Cup. It can be downloaded from [here(http://kdd.ics.uci.edu/databases/kddcup99/kddcup.data_10_percent.gz). It contains 494020 instances with 42 features. A complete listing of the set of features defined for the connection records is given in the three tables below:  
+The data used here in this project is a 10% stratified subsample of the data from the 1999 ACM KDD Cup. It can be downloaded from [here](http://kdd.ics.uci.edu/databases/kddcup99/kddcup.data_10_percent.gz). It contains 494020 instances with 42 features. A complete listing of the set of features defined for the connection records is given in the three tables below:  
 
 &nbsp;
 &nbsp;
